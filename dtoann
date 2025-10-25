@@ -23,7 +23,7 @@ logo.AnchorPoint = Vector2.new(0.5,0.5)
 logo.Position = UDim2.new(0.5,0,0.5,0)
 logo.Size = UDim2.new(0,0,0,0) -- bắt đầu nhỏ rồi zoom
 logo.BackgroundTransparency = 1
-logo.Image = "http://www.roblox.com/asset/?id=73824391391946"
+logo.Image = "http://www.roblox.com/asset/?id=86744571509372"
 logo.ImageTransparency = 1
 
 -- Hiện logo (zoom + fade in)
